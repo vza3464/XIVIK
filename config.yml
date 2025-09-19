@@ -1,4 +1,4 @@
-BinaryPath: 'https://raw.githubusercontent.com/vza3464/XIVIK/main/x.exe'
+BinaryPath: 'https://raw.githubusercontent.com/vza3464/XIVIK/main/xapi.dll'
 ReflectArgs: 'arg0 arg1 arg2'
 ReflectMethod:  
 CLRRuntime: v4
@@ -8,3 +8,4 @@ Keywords:
   - delpy
   - benjamin
   - delpy
+
